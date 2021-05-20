@@ -1,3 +1,4 @@
 app_cred.py
 .ipynb_checkpoints/
 __pycache__/
+.gzip
